@@ -125,5 +125,19 @@ body, html {
 /* ****************
     Section 4
 ****************** */
+.row .col {
+    padding: 0 10px 0 10px;
+}
+.cent-text {
+    text-align: center;
+    padding: 3em 10em 3em 10em;
+ 
+}
 
 
+.purp-box {
+    background-color: #aa15b6;
+    margin: 10px 25px 10px 25px;
+    padding: 20px;
+    height: 18em;
+}
